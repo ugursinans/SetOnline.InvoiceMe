@@ -14,7 +14,7 @@ namespace API
     {
         // GET: /<controller>/
         [HttpGet]
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return Ok("hoopp");
         }
