@@ -127,3 +127,5 @@ TestResults/
 *.lck
 *.nuget.props
 *.nuget.targets
+
+.fake
